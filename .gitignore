@@ -1,0 +1,6 @@
+/data/
+/models/
+/venv/
+/mlruns/
+.idea
+*__pycache__/
